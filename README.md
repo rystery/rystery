@@ -3,17 +3,19 @@ Sou um programador em luau(avançado) e C++(iniciante), gosto de aprender atualm
 - Java Script (In progress)
 - Html e Css
 
-<!--
-**rystery/rystery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![rystery GitHub stats](https://github-readme-stats.vercel.app/api?username=rystery&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rystery&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Linguagens que eu uso
+
+<div style="display: inline_block"<br/>>
+    <img align="center" 
+     alt="Lua" 
+     src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+
+     <img align="center" 
+     alt="Cpp" 
+     src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</div>
