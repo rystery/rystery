@@ -1,4 +1,3 @@
-## 👋 Olá, eu sou o Ryan
 
 💻 Programador  
 -  Luau (Avançado)  
