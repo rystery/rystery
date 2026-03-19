@@ -1,4 +1,7 @@
-## Hi there 👋
+## Oi pessoal 👋
+Sou um programador em luau(avançado) e C++(iniciante), gosto de aprender atualmente quero aprender:
+- Java Script (In progress)
+- Html e Css
 
 <!--
 **rystery/rystery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
