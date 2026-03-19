@@ -13,7 +13,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rystery&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rystery&layout=donut-vertical&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryster&layout=donut-vertical&theme=radical)
 
 ---
 
