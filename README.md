@@ -15,7 +15,4 @@ Sou um programador em luau(avançado) e C++(iniciante), gosto de aprender atualm
      alt="Lua" 
      src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 
-     <img align="center" 
-     alt="Cpp" 
-     src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div>
