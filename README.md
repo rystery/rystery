@@ -8,12 +8,6 @@
 - HTML & CSS
 - Python
 
----
-
-## 📊 GitHub Stats
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rystery&langs_count=8)
 
 ---
 
